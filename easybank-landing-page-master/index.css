@@ -1,0 +1,31 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nav-item{
+    display: inline-block;
+    margin-right: 20px;
+}
+nav-btn{
+    color: white;
+    background-color: (136, 165%, 51%);
+    background: -o-linear-gradient( to right, 136, 165%, 51%),hsl(192, 70%, 51%));
+    border-radius: 20px;
+    border: none;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+}
+.mockup-section{
+    display: flex;
+}
+.mockup-section ariticle {
+    flex: 7px;
+}
